@@ -7,6 +7,8 @@
 
 #Nuevo comment para subir
 
+#Comentario para el clone que esta en escritorio
+
 import pygame, sys
 from pygame.locals import *
 from random import randint
